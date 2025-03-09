@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 1424035214
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: sfx2
+      Dependencies: {}

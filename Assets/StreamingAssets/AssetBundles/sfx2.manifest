@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 1269746593
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 54fb170f684394383260b182da09ae5d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6bb95b44069a7e7a6fa967f48763c66b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 54fb170f684394383260b182da09ae5d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/SoundLoader2.prefab
+- Assets/Whistler.wav
+- Assets/BlueDrone.png
+Dependencies: []
