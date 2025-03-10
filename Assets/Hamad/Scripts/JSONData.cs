@@ -31,6 +31,12 @@ namespace GPG214.Hamad {
         // Update is called once per frame
         void Update()
         {
+            if (!File.Exists(filePath))
+            {
+                Debug.Log("Error, filePath doesn't exist");
+                return;
+            }
+
             if (Input.GetKeyDown(KeyCode.B))
             {
                 SaveData();

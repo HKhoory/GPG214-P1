@@ -45,6 +45,8 @@ namespace GPG214.Hamad {
         private void LoadPrefab() //loads the prefab from the asset bundle
         {
 
+            if (dlc == null) return;
+
             GameObject soundPrefab = dlc.LoadAsset<GameObject>(assetName);
 
             if (soundPrefab != null)
